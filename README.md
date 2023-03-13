@@ -1,4 +1,4 @@
 ## ShareMe Project
 
 **This is a study project from YouTube.**
-[#My link app](https://sharemeexserlot.netlify.app/login)
+<a href="https://sharemeexserlot.netlify.app/login" target="_blank">[#My link app]
